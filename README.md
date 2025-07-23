@@ -21,3 +21,11 @@ Melhorar e automatizar atividades rotineiras do setor fiscal utilizando:
 ├── docs/                # Documentação e tutoriais de uso
 ├── testes/              # Exemplos e simulações para validação
 └── README.md            # Apresentação do repositório
+
+
+#Automatizar download de NFe
+- Libs
+  - https://docs.python.org/3/library/csv.html#
+  - https://pandas.pydata.org/
+  - https://docs.python.org/3/library/time.html#time.sleep
+  - https://www.nfe.fazenda.gov.br/portal/consultaRecaptcha.aspx?tipoConsulta=resumo&tipoConteudo=7PhJ+gAVw2g=
