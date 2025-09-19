@@ -1,6 +1,6 @@
 # 📊 Soluções Internas – Setor Fiscal
 
-Repositório dedicado ao desenvolvimento de ferramentas, automações e rotinas que otimizam os processos fiscais da empresa **[BARRETOAC]**, onde atuo como assistente fiscal. Este espaço centraliza scripts, planilhas e projetos úteis ao dia a dia contábil, com foco na eficiência, redução de retrabalho e padronização de tarefas.
+Repositório dedicado ao desenvolvimento de ferramentas, automações e rotinas que otimizam os processos fiscais da empresa **BARRETO ASSESSORIA CONTÁBIL**, onde atuo como assistente fiscal. Este espaço centraliza scripts, planilhas e projetos úteis ao dia a dia contábil, com foco na eficiência, redução de retrabalho e padronização de tarefas.
 
 ---
 
